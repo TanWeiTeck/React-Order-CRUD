@@ -25,7 +25,7 @@ export default function CreateProduct() {
                 price: price,
             })
             .then(({ data }) => {
-                Swal.fire({ icon: 'success', text: data });
+                Swal.fire({ icon: 'success', text: 'Order Added' });
                 navigate('/product');
             })
             .catch(({ response }) => {

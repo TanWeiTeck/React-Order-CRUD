@@ -55,7 +55,7 @@ export default function EditUser() {
                 price: price,
             })
             .then(({ data }) => {
-                Swal.fire({ icon: 'success', text: data.message });
+                Swal.fire({ icon: 'success', text: 'Order Updated' });
                 navigate('/product');
             })
             .catch(({ response }) => {
