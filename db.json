@@ -1,0 +1,58 @@
+{
+    "products": [
+        {
+            "name": "A4 paper",
+            "description": "3 set",
+            "price": "40",
+            "id": 1
+        },
+        {
+            "name": "Pencil",
+            "description": "5 box",
+            "price": "50",
+            "id": 2
+        },
+        {
+            "name": "Ruler",
+            "description": "3 box",
+            "price": "15",
+            "id": 3
+        },
+        {
+            "name": "A4 paper",
+            "description": "3 set",
+            "price": "40",
+            "id": 1
+        },
+        {
+            "name": "Pencil",
+            "description": "5 box",
+            "price": "50",
+            "id": 2
+        },
+        {
+            "name": "Ruler",
+            "description": "3 box",
+            "price": "15",
+            "id": 3
+        },
+        {
+            "name": "A4 paper",
+            "description": "3 set",
+            "price": "40",
+            "id": 1
+        },
+        {
+            "name": "Pencil",
+            "description": "5 box",
+            "price": "50",
+            "id": 2
+        },
+        {
+            "name": "Ruler",
+            "description": "3 box",
+            "price": "15",
+            "id": 3
+        }
+    ]
+}

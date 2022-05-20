@@ -1,0 +1,47 @@
+.container {
+    width: 100%;
+    background-color: rgb(213, 213, 213);
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.containerchild {
+    display: flex;
+}
+
+.OrderButton {
+    color: crimson;
+    border: solid 1px black;
+    padding: 8px 14px;
+    text-align: end;
+    margin: 10px 0;
+    text-decoration: none;
+}
+
+.OrderButton:hover {
+    background-color: crimson;
+    color: white;
+    transition: ease;
+    transition-duration: 0.3s;
+}
+
+.btn {
+    padding: 5px 15px;
+    border: solid 1px black;
+    text-decoration: none;
+    margin: 0 5px;
+    color: black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+}
+
+.editbtn {
+    background-color: rgb(97, 222, 97);
+}
+
+.deletebtn {
+    background-color: rgba(220, 20, 60, 0.806);
+}
